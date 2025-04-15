@@ -1,5 +1,7 @@
 # Ex02 Django ORM Web Application
 ## Date: 15.04.2025
+## Name: ASHOK S
+## Reg No: 212224040031
 
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
